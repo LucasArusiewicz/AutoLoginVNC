@@ -1,2 +1,2 @@
 # AutoLoginVNC
-Digita usuario e senha fornecidos
+Digita usuario e senha fornecidos após clicar novamente.
